@@ -1,4 +1,4 @@
 # -Raptor
 Help to better understanding input and output.
 <br> Airthmetic numbers.
-<br> simple interest.
+<br> Simple Interest.
