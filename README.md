@@ -4,4 +4,4 @@ Help to better understanding input and output.
 <br> Simple Interest.
 <br> Compound interest.
 <br>circumfarance of circle.
-<br>VOLUME OF CUBE.
+<br>VOLUME OF CUBE AND SQUARE.
