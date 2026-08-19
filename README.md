@@ -5,3 +5,4 @@ Help to better understanding input and output.
 <br> Compound interest.
 <br>circumfarance of circle.
 <br>VOLUME OF CUBE AND SQUARE.
+average of subjects.
