@@ -7,3 +7,4 @@ Help to better understanding input and output.
 <br>VOLUME OF CUBE AND SQUARE.
 <br> average of subjects.
 leap year.
+print grade of students.
