@@ -8,3 +8,4 @@ Help to better understanding input and output.
 <br> average of subjects.
 leap year.
 print grade of students.
+input values.
