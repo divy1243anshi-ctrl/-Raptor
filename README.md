@@ -10,3 +10,4 @@ Help to better understanding input and output.
 <br> print grade of students.
 <br>input values.
 fuction call.
+recall fuction by main.
